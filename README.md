@@ -3,7 +3,7 @@
 
 **`Technophile Artist (Developer/Designer/Creator)`**
 
-<p >A passionate FullStack developer and UI/UX designer from India. Using and Exploring different tech tools and learning them is inevitable for me.</p>
+<p >A passionate FullStack developer and UI/UX designer from India. Using and exploring different tech tools and learning them is inevitable for me.</p>
 <!--https://github.com/ForrestKnight-->
 <p align="left">
       <a href="https://github.com/zeta-yash?tab=followers">
