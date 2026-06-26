@@ -20,7 +20,7 @@
 
 ### 🛠Tools 
 <!--https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-per-line-->
-[![My Skills](https://skillicons.dev/icons?i=pr,au,ps,ai,figma,sketchup,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,pr,au,ps,ai,figma,sketchup,&theme=dark)](https://skillicons.dev)
 
 ### 💻Operating System
 <!--https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-per-line-->
