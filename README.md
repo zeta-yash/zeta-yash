@@ -16,7 +16,7 @@
 
 ### 🦾Languages 
 <!--https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-per-line-->
-<marquee>[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,python,c,cpp,sql&theme=dark)](https://skillicons.dev)</marquee>
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,js,python,c,cpp,sql&theme=dark)](https://skillicons.dev)
 
 ### 🛠Tools 
 <!--https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-per-line-->
